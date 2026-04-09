@@ -41,4 +41,4 @@ if __name__ == "__main__":
 # This  pipeline is very small and simple, setting up a full orchestration engine introduces extra code decorators, background logging, and state management that isn't really needed for such a tiny task.
 
 # Q2: Describe some realistic scenarios where a framework like Prefect could still be useful, even if the pipeline logic itself stays simple like in this case.
-# For example, when we need to run scripts on a regular time basis, or when we need error handling with automatic retries.
+# A: For example, when we need to run scripts on a regular time basis, or when we need error handling with automatic retries.
